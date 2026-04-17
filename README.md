@@ -16,13 +16,23 @@
 ---
 
 ## Open Menu
-**no menu**
+**INSERT**
 
 ---
 
 ## Features
 
-- God Mode  
-- Hit Multiplier x5
-- FPS Indicator 
-- FPS Unlocker 165
+### Player
+- God Mode
+- Damage Multiplier
+
+### Visuals
+- FPS Indicator
+- FPS Unlocker
+
+### Misc
+- Custom Menu Scale
+- Custom Menu Font
+
+## Screenshots
+![ScreenShot](https://github.com/490hz/ASA-GI/blob/main/1.png)
