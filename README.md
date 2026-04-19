@@ -24,13 +24,15 @@
 
 ### Player
 - God Mode
-- Damage Multiplier
+- Hit Multiplier
+- Infinity Stamina
+- Fly
 
 ### Visuals
 - FPS Indicator
-- FPS Unlocker
 
 ### Misc
+- FPS Unlocker
 - Custom Menu Scale
 - Custom Menu Font
 
