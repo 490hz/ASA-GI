@@ -24,6 +24,7 @@
 
 ### Player
 - God Mode
+- Skip Cutscene (not all)
 - Hit Multiplier
 - Infinity Stamina
 - Fly
