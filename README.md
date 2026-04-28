@@ -24,6 +24,7 @@
 
 ### Player
 - God Mode
+- Auto Talk
 - Skip Cutscene (not all)
 - Hit Multiplier
 - Infinity Stamina
